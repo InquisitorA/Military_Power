@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <table id="data" class="table table-striped">
+    <thead>
+      <tr>
+        <th>Country Name</th>
+        <th>ISO3</th>
+        <th>ISO2</th>
+        <th>Capital</th>
+        <th>Currency</th>
+        <th>Region</th>
+        <th>Sub-Region</th>
+        <th>Population</th>
+        <th>Area(in sq.km)</th>\
+        <th>GDP(in </th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for user in users %}
+        <tr>
+          <td>{{ user.name }}</td>
+          <td>{{ user.age }}</td>
+          <td>{{ user.address }}</td>
+          <td>{{ user.phone }}</td>
+          <td>{{ user.email }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

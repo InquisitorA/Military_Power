@@ -1,0 +1,134 @@
+﻿id,country_name,iso3,iso2,capital,currency,region,subregion,fire_power_rank,army_id,navy_id,airforce_id,economy_id,manpower_id ,geography_id
+1,Afghanistan,AFG,AF,Kabul,AFN,Asia,Southern Asia,69,105,127,89,92,115,119
+2,Albania,ALB,AL,Tirana,ALL,Europe,Southern Europe,90,85,91,51,10,122,1
+3,Algeria,DZA,DZ,Algiers,DZD,Africa,Northern Africa,25,121,6,40,123,85,90
+4,Angola,AGO,AO,Luanda,AOA,Africa,Middle Africa,51,92,7,101,6,64,16
+5,Argentina,ARG,AR,Buenos Aires,ARS,Americas,South America,35,33,101,15,118,21,105
+6,Armenia,ARM,AM,Yerevan,AMD,Asia,Western Asia,93,63,30,64,18,109,80
+7,Australia,AUS,AU,Canberra,AUD,Oceania,Australia and New Zealand,22,17,81,3,108,113,122
+8,Austria,AUT,AT,Vienna,EUR,Europe,Western Europe,53,70,83,11,98,45,103
+9,Azerbaijan,AZE,AZ,Baku,AZN,Asia,Western Asia,58,86,5,75,71,118,37
+10,Bahrain,BHR,BH,Manama,BHD,Asia,Western Asia,94,67,56,96,1,5,88
+11,Bangladesh,BGD,BD,Dhaka,BDT,Asia,Southern Asia,57,60,10,1,34,111,15
+12,Belarus,BLR,BY,Minsk,BYN,Europe,Eastern Europe,49,14,46,116,4,98,67
+13,Belgium,BEL,BE,Brussels,EUR,Europe,Western Europe,66,82,45,33,48,119,18
+14,Bhutan,BTN,BT,Thimphu,BTN,Asia,Southern Asia,133,132,80,71,80,128,131
+15,Bolivia,BOL,BO,Sucre,BOB,Americas,South America,61,123,116,128,107,25,69
+16,Bosnia and Herzegovina,BIH,BA,Sarajevo,BAM,Europe,Southern Europe,121,25,38,30,73,24,14
+17,Botswana,BWA,BW,Gaborone,BWP,Africa,Southern Africa,107,74,130,61,81,48,74
+18,Brazil,BRA,BR,Brasilia,BRL,Americas,South America,17,40,52,102,102,6,40
+19,Bulgaria,BGR,BG,Sofia,BGN,Europe,Eastern Europe,67,93,122,133,129,75,2
+20,Cambodia,KHM,KH,Phnom Penh,KHR,Asia,South-Eastern Asia,89,133,102,85,132,125,75
+21,Cameroon,CMR,CM,Yaounde,XAF,Africa,Middle Africa,111,109,90,35,15,123,22
+22,Canada,CAN,CA,Ottawa,CAD,Americas,Northern America,26,127,125,5,30,90,46
+23,Central African Republic,CAF,CF,Bangui,XAF,Africa,Middle Africa,129,13,43,73,35,47,114
+24,Chad,TCD,TD,N'Djamena,XAF,Africa,Middle Africa,88,52,99,10,104,86,127
+25,Chile,CHL,CL,Santiago,CLP,Americas,South America,47,71,37,14,58,63,51
+26,China,CHN,CN,Beijing,CNY,Asia,Eastern Asia,3,99,70,111,75,110,100
+27,Colombia,COL,CO,Bogota,COP,Americas,South America,40,106,4,91,55,10,113
+28,Congo,COG,CG,Brazzaville,XAF,Africa,Middle Africa,118,73,111,29,29,22,65
+29,Congo The Democratic Republic Of The,COD,CD,Kinshasa,CDF,Africa,Middle Africa,76,27,25,77,21,71,107
+30,Cote D'Ivoire (Ivory Coast),CIV,CI,Yamoussoukro,XOF,Africa,Western Africa,116,57,104,60,40,132,42
+31,Croatia (Hrvatska),HRV,HR,Zagreb,HRK,Europe,Southern Europe,68,7,67,66,14,73,30
+32,Cuba,CUB,CU,Havana,CUP,Americas,Caribbean,75,103,71,62,25,96,27
+33,Czech Republic,CZE,CZ,Prague,CZK,Europe,Eastern Europe,32,56,26,9,109,34,3
+34,Denmark,DNK,DK,Copenhagen,DKK,Europe,Northern Europe,52,94,69,63,16,19,13
+35,Dominican Republic,DOM,DO,Santo Domingo,DOP,Americas,Caribbean,123,97,121,88,72,68,6
+36,Ecuador,ECU,EC,Quito,USD,Americas,South America,70,95,66,20,101,18,61
+37,Egypt,EGY,EG,Cairo,EGP,Africa,Northern Africa,10,1,128,2,5,67,109
+38,El Salvador,SLV,SV,San Salvador,USD,Americas,Central America,125,101,77,99,116,7,31
+39,Estonia,EST,EE,Tallinn,EUR,Europe,Northern Europe,110,22,54,107,65,133,17
+40,Ethiopia,ETH,ET,Addis Ababa,ETB,Africa,Eastern Africa,41,59,129,48,111,57,77
+41,Finland,FIN,FI,Helsinki,EUR,Europe,Northern Europe,56,79,42,32,90,61,86
+42,France,FRA,FR,Paris,EUR,Europe,Western Europe,5,129,112,23,124,4,26
+43,Gabon,GAB,GA,Libreville,XAF,Africa,Middle Africa,120,58,24,43,37,53,12
+44,Georgia,GEO,GE,Tbilisi,GEL,Asia,Western Asia,82,118,118,28,87,20,128
+45,Germany,DEU,DE,Berlin,EUR,Europe,Western Europe,9,62,36,118,103,99,126
+46,Ghana,GHA,GH,Accra,GHS,Africa,Western Africa,101,102,97,79,31,37,57
+47,Greece,GRC,GR,Athens,EUR,Europe,Southern Europe,28,91,13,105,49,2,71
+48,Guatemala,GTM,GT,Guatemala City,GTQ,Americas,Central America,100,88,93,100,3,82,132
+49,Honduras,HND,HN,Tegucigalpa,HNL,Americas,Central America,106,111,51,37,120,32,82
+50,Hungary,HUN,HU,Budapest,HUF,Europe,Eastern Europe,63,87,2,87,44,107,23
+51,India,IND,IN,New Delhi,INR,Asia,Southern Asia,4,10,34,110,68,3,50
+52,Indonesia,IDN,ID,Jakarta,IDR,Asia,South-Eastern Asia,14,43,114,59,70,9,62
+53,Iran,IRN,IR,Tehran,IRR,Asia,Southern Asia,21,64,108,7,23,59,48
+54,Iraq,IRQ,IQ,Baghdad,IQD,Asia,Western Asia,59,24,124,12,94,76,53
+55,Israel,ISR,IL,Jerusalem,ILS,Asia,Western Asia,15,35,74,131,24,49,118
+56,Italy,ITA,IT,Rome,EUR,Europe,Southern Europe,11,128,79,94,74,42,28
+57,Japan,JPN,JP,Tokyo,JPY,Asia,Eastern Asia,7,53,92,24,88,23,58
+58,Jordan,JOR,JO,Amman,JOD,Asia,Western Asia,72,78,86,113,36,92,130
+59,Kazakhstan,KAZ,KZ,Astana,KZT,Asia,Central Asia,55,117,15,108,12,83,43
+60,Kenya,KEN,KE,Nairobi,KES,Africa,Eastern Africa,77,114,22,103,41,95,47
+61,Korea North,PRK,KP,Pyongyang,KPW,Asia,Eastern Asia,23,124,115,19,51,28,70
+62,Korea South,KOR,KR,Seoul,KRW,Asia,Eastern Asia,12,2,132,31,47,16,32
+63,Kuwait,KWT,KW,Kuwait City,KWD,Asia,Western Asia,80,21,12,125,126,50,68
+64,Kyrgyzstan,KGZ,KG,Bishkek,KGS,Asia,Central Asia,108,55,78,67,125,46,33
+65,Laos,LAO,LA,Vientiane,LAK,Asia,South-Eastern Asia,124,4,58,55,79,62,35
+66,Latvia,LVA,LV,Riga,EUR,Europe,Northern Europe,103,36,119,98,99,14,129
+67,Lebanon,LBN,LB,Beirut,LBP,Asia,Western Asia,98,72,50,6,117,8,59
+68,Libya,LBY,LY,Tripolis,LYD,Africa,Northern Africa,73,6,65,39,91,1,101
+69,Lithuania,LTU,LT,Vilnius,EUR,Europe,Northern Europe,95,77,123,13,53,100,85
+70,Macedonia,MKD,MK,Skopje,MKD,Europe,Southern Europe,122,90,131,27,39,40,84
+71,Madagascar,MDG,MG,Antananarivo,MGA,Africa,Eastern Africa,119,84,18,120,114,38,81
+72,Malaysia,MYS,MY,Kuala Lumpur,MYR,Asia,South-Eastern Asia,33,131,53,16,128,97,38
+73,Mali,MLI,ML,Bamako,XOF,Africa,Western Africa,117,119,33,36,112,126,4
+74,Mauritania,MRT,MR,Nouakchott,MRO,Africa,Western Africa,130,108,17,38,83,124,92
+75,Mexico,MEX,MX,Mexico City,MXN,Americas,Central America,34,54,89,46,59,52,104
+76,Mongolia,MNG,MN,Ulan Bator,MNT,Asia,Eastern Asia,87,44,110,72,119,84,34
+77,Morocco,MAR,MA,Rabat,MAD,Africa,Northern Africa,54,47,44,47,52,15,125
+78,Mozambique,MOZ,MZ,Maputo,MZN,Africa,Eastern Africa,109,69,11,22,96,41,10
+79,Myanmar,MMR,MM,Nay Pyi Taw,MMK,Asia,South-Eastern Asia,31,23,73,50,42,117,133
+80,Namibia,NAM,NA,Windhoek,NAD,Africa,Southern Africa,127,49,28,130,57,79,124
+81,Nepal,NPL,NP,Kathmandu,NPR,Asia,Southern Asia,97,18,94,25,45,91,44
+82,Netherlands The,NLD,NL,Amsterdam,EUR,Europe,Western Europe,38,75,16,119,100,121,8
+83,New Zealand,NZL,NZ,Wellington,NZD,Oceania,Australia and New Zealand,102,98,8,53,122,81,72
+84,Nicaragua,NIC,NI,Managua,NIO,Americas,Central America,115,20,20,122,86,65,120
+85,Niger,NER,NE,Niamey,XOF,Africa,Western Africa,114,15,9,127,130,112,115
+86,Nigeria,NGA,NG,Abuja,NGN,Africa,Western Africa,43,30,27,26,95,69,87
+87,Norway,NOR,NO,Oslo,NOK,Europe,Northern Europe,36,42,23,92,105,33,97
+88,Oman,OMN,OM,Muscat,OMR,Asia,Western Asia,79,96,98,44,61,55,5
+89,Pakistan,PAK,PK,Islamabad,PKR,Asia,Southern Asia,13,28,47,80,115,87,102
+90,Panama,PAN,PA,Panama City,PAB,Americas,Central America,126,5,62,57,78,120,52
+91,Paraguay,PRY,PY,Asuncion,PYG,Americas,South America,105,68,120,121,106,39,79
+92,Peru,PER,PE,Lima,PEN,Americas,South America,39,41,41,78,50,130,89
+93,Philippines,PHL,PH,Manila,PHP,Asia,South-Eastern Asia,50,107,49,81,127,131,96
+94,Poland,POL,PL,Warsaw,PLN,Europe,Eastern Europe,19,11,95,17,66,17,116
+95,Portugal,PRT,PT,Lisbon,EUR,Europe,Southern Europe,62,12,88,41,22,101,41
+96,Qatar,QAT,QA,Doha,QAR,Asia,Western Asia,91,130,48,54,77,93,98
+97,Romania,ROU,RO,Bucharest,RON,Europe,Eastern Europe,42,76,19,18,60,31,78
+98,Russia,RUS,RU,Moscow,RUB,Europe,Eastern Europe,2,48,3,8,64,116,56
+99,Saudi Arabia,SAU,SA,Riyadh,SAR,Asia,Western Asia,24,126,31,83,110,60,73
+100,Serbia,SRB,RS,Belgrade,RSD,Europe,Southern Europe,83,9,21,124,17,70,54
+101,Sierra Leone,SLE,SL,Freetown,SLL,Africa,Western Africa,131,115,29,129,63,43,11
+102,Singapore,SGP,SG,Singapur,SGD,Asia,South-Eastern Asia,65,38,82,58,43,29,108
+103,Slovakia,SVK,SK,Bratislava,EUR,Europe,Eastern Europe,74,19,72,126,133,26,24
+104,Slovenia,SVN,SI,Ljubljana,EUR,Europe,Southern Europe,113,39,76,112,62,94,21
+105,Somalia,SOM,SO,Mogadishu,SOS,Africa,Eastern Africa,128,80,84,42,97,74,112
+106,South Africa,ZAF,ZA,Pretoria,ZAR,Africa,Southern Africa,46,65,100,82,67,104,25
+107,South Sudan,SSD,SS,Juba,SSP,Africa,Middle Africa,99,113,57,52,9,89,110
+108,Spain,ESP,ES,Madrid,EUR,Europe,Southern Europe,27,110,103,70,84,44,36
+109,Sri Lanka,LKA,LK,Colombo,LKR,Asia,Southern Asia,84,116,64,65,2,11,91
+110,Sudan,SDN,SD,Khartoum,SDG,Africa,Northern Africa,71,50,109,97,69,30,49
+111,Suriname,SUR,SR,Paramaribo,SRD,Americas,South America,132,16,96,49,54,88,123
+112,Sweden,SWE,SE,Stockholm,SEK,Europe,Northern Europe,29,3,133,106,56,56,29
+113,Switzerland,CHE,CH,Bern,CHF,Europe,Western Europe,37,8,1,84,11,80,99
+114,Syria,SYR,SY,Damascus,SYP,Asia,Western Asia,44,89,126,114,46,54,19
+115,Taiwan,TWN,TW,Taipei,TWD,Asia,Eastern Asia,18,120,87,123,89,114,39
+116,Tajikistan,TJK,TJ,Dushanbe,TJS,Asia,Central Asia,112,29,60,4,76,78,55
+117,Tanzania,TZA,TZ,Dodoma,TZS,Africa,Eastern Africa,96,32,39,76,33,36,7
+118,Thailand,THA,TH,Bangkok,THB,Asia,South-Eastern Asia,20,31,55,69,85,108,94
+119,Tunisia,TUN,TN,Tunis,TND,Africa,Northern Africa,78,26,40,109,113,72,106
+120,Turkey,TUR,TR,Ankara,TRY,Asia,Western Asia,8,125,59,95,93,51,117
+121,Turkmenistan,TKM,TM,Ashgabat,TMT,Asia,Central Asia,86,104,105,104,7,103,83
+122,Uganda,UGA,UG,Kampala,UGX,Africa,Eastern Africa,92,51,68,68,19,102,45
+123,Ukraine,UKR,UA,Kiev,UAH,Europe,Eastern Europe,30,61,63,115,26,127,95
+124,United Arab Emirates,ARE,AE,Abu Dhabi,AED,Asia,Western Asia,60,45,117,117,32,58,20
+125,United Kingdom,GBR,GB,London,GBP,Europe,Northern Europe,6,112,14,56,13,129,60
+126,United States,USA,US,Washington,USD,Americas,Northern America,1,66,113,93,8,105,111
+127,Uruguay,URY,UY,Montevideo,UYU,Americas,South America,104,100,85,86,27,106,64
+128,Uzbekistan,UZB,UZ,Tashkent,UZS,Asia,Central Asia,48,81,35,34,38,77,121
+129,Venezuela,VEN,VE,Caracas,VEF,Americas,South America,45,83,32,90,20,27,93
+130,Vietnam,VNM,VN,Hanoi,VND,Asia,South-Eastern Asia,16,46,75,21,121,35,63
+131,Yemen,YEM,YE,Sanaa,YER,Asia,Western Asia,64,122,106,132,131,12,76
+132,Zambia,ZMB,ZM,Lusaka,ZMW,Africa,Eastern Africa,85,34,61,45,82,66,66
+133,Zimbabwe,ZWE,ZW,Harare,ZWL,Africa,Eastern Africa,81,37,107,74,28,13,9
